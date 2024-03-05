@@ -1,7 +1,4 @@
 <template>
-	<div class='logo'>
-		<img src='image/RGB_place.png' />
-	</div>
 </template>
 
 <script>
